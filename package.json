@@ -1,0 +1,17 @@
+{
+  "author": "emm.odeke@gmail.com",
+  "repository": "https://github.com/orijtech/archompjs",
+  "description": "archive and compression API client",
+  "name": "archomp",
+  "main": "archomp.js",
+  "version": "0.0.5",
+  "dependencies": {
+    "request": "*"
+  },
+  "tags": [
+    "archive API", "compress API", "archive and compress"
+  ],
+  "engines": {
+    "node": "*"
+  }
+}

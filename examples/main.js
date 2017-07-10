@@ -1,8 +1,3 @@
-# archompjs
-JS client for the archive and compression service from @orijtech
-
-Sample
-```javascript
 const fs = require('fs');
 const archomp = require('archomp');
 
@@ -33,4 +28,3 @@ function main() {
 
 if (process.argv.length >= 2 && process.argv[1] === __filename)
   main();
-```
